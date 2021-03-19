@@ -113,7 +113,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"SBAHN_FINAL.wav"
+                 "value":"SBAHN_FINAL.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
