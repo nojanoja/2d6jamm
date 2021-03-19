@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#fromstrasse1"
+                 "value":"main.json#vons1"
                 }],
          "type":"tilelayer",
          "visible":true,
