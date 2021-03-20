@@ -210,6 +210,16 @@
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,
