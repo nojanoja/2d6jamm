@@ -53,7 +53,7 @@
                  "value":"http:\/\/cdn.c3voc.de\/adventure1.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":47,
          "x":0,
          "y":0
