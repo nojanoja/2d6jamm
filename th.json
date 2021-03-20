@@ -12,7 +12,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/cdn.c3voc.de\/adventure3.mp3"
+                 "value":"http:\/\/cdn.c3voc.de\/adventure4.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,8 +108,20 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 172, 173, 174, 175, 176, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 187, 188, 189, 190, 191, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 232, 233, 234, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 247, 248, 249, 205, 206, 207, 208, 209, 210, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 262, 263, 264, 220, 221, 222, 223, 224, 225, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 277, 278, 279, 280, 281, 237, 238, 239, 240, 241, 242, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 292, 293, 294, 295, 0, 0, 253, 254, 255, 256, 257, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 268, 269, 270, 271, 272, 0, 0, 185, 186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 215, 216, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":18,
+         "id":8,
+         "name":"top",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":25,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":8,
+ "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -142,13 +154,13 @@
         {
          "columns":15,
          "firstgid":7,
-         "image":"theaterimmernochnichtfertigaberjetztwahrscheinlichleiderfinal__gros1.png",
-         "imageheight":352,
+         "image":"theaterimmernochnichtfertigaberjetztwahrscheinlichleiderfinal.png",
+         "imageheight":704,
          "imagewidth":480,
          "margin":0,
-         "name":"theaterimmernochnichtfertigaberjetztwahrscheinlichleiderfinal__gros1",
+         "name":"theaterimmernochnichtfertigaberjetztwahrscheinlichleiderfinal",
          "spacing":0,
-         "tilecount":165,
+         "tilecount":330,
          "tileheight":32,
          "tilewidth":32
         }],
